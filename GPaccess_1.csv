@@ -1,0 +1,513 @@
+Response,Breakdown type,Breakdown name,Estimate %,LCL %,UCL %,Age Standardised Estimate % [note 9],Age Standardised LCL % [note 9],Age Standardised UCL % [note 9],Unweighted Sample for Response Option,Weighted Sample for Response Option
+Yes,All Adults,All Adults,38.5,38.2,38.8,39,38.7,39.3,"37,322","17,766,038"
+No,All Adults,All Adults,61.3,61,61.7,60.8,60.5,61.1,"51,970","28,303,301"
+Do not know,All Adults,All Adults,0.1,0.1,0.2,0.1,0.1,0.2,64,"58,927"
+Prefer not to say,All Adults,All Adults,[low],0,[low],[low],0,[low],32,"14,173"
+Yes,Age: 5-category,Aged 16 to 24,23.2,20.4,26,26.6,23.6,29.5,220,"1,344,230"
+No,Age: 5-category,Aged 16 to 24,76.3,73.5,79.1,72.9,69.9,75.8,653,"4,427,075"
+Do not know,Age: 5-category,Aged 16 to 24,0.5,0,1,0.6,0.1,1.1,5,"28,966"
+Prefer not to say,Age: 5-category,Aged 16 to 24,[w],[w],[w],[w],[w],[w],[w],[w]
+Yes,Age: 5-category,Aged 25 to 34,38.8,36.3,41.2,37.7,35.3,40.1,648,"2,950,342"
+No,Age: 5-category,Aged 25 to 34,61.1,58.7,63.6,62.2,59.8,64.7,883,"4,652,998"
+Do not know,Age: 5-category,Aged 25 to 34,[c],[c],[c],[c],[c],[c],[c],[c]
+Prefer not to say,Age: 5-category,Aged 25 to 34,[c],[c],[c],[c],[c],[c],[c],[c]
+Yes,Age: 5-category,Aged 35 to 49,41.1,40.2,42,41.2,40.3,42.1,"4,720","4,560,155"
+No,Age: 5-category,Aged 35 to 49,58.7,57.8,59.7,58.6,57.7,59.6,"6,011","6,515,959"
+Do not know,Age: 5-category,Aged 35 to 49,0.1,0.1,0.2,0.1,0.1,0.2,12,"13,471"
+Prefer not to say,Age: 5-category,Aged 35 to 49,[low],0,0.1,[low],0,0.1,3,"2,832"
+Yes,Age: 5-category,Aged 50 to 69,40.6,40.1,41,40.7,40.2,41.1,"18,978","5,690,151"
+No,Age: 5-category,Aged 50 to 69,59.3,58.9,59.8,59.2,58.8,59.7,"26,971","8,312,156"
+Do not know,Age: 5-category,Aged 50 to 69,0.1,0,0.1,0.1,0,0.1,29,"8,971"
+Prefer not to say,Age: 5-category,Aged 50 to 69,[low],0,0.1,[low],0,0.1,17,"5,329"
+Yes,Age: 5-category,Aged 70 and over,42.3,41.7,42.8,43.1,42.6,43.7,"12,756","3,221,160"
+No,Age: 5-category,Aged 70 and over,57.7,57.1,58.2,56.8,56.2,57.3,"17,452","4,395,113"
+Do not know,Age: 5-category,Aged 70 and over,0.1,0,0.1,0.1,0,0.1,17,"4,784"
+Prefer not to say,Age: 5-category,Aged 70 and over,[low],0,0.1,[low],0,[low],11,"2,552"
+Yes,Age: 8-category,Aged 16 to 24,23.2,20.4,26,26.6,23.6,29.5,220,"1,344,230"
+No,Age: 8-category,Aged 16 to 24,76.3,73.5,79.1,72.9,69.9,75.8,653,"4,427,075"
+Do not know,Age: 8-category,Aged 16 to 24,0.5,0,1,0.6,0.1,1.1,5,"28,966"
+Prefer not to say,Age: 8-category,Aged 16 to 24,[w],[w],[w],[w],[w],[w],[w],[w]
+Yes,Age: 8-category,Aged 25 to 34,38.8,36.3,41.2,37.7,35.3,40.1,648,"2,950,342"
+No,Age: 8-category,Aged 25 to 34,61.1,58.7,63.6,62.2,59.8,64.7,883,"4,652,998"
+Do not know,Age: 8-category,Aged 25 to 34,[c],[c],[c],[c],[c],[c],[c],[c]
+Prefer not to say,Age: 8-category,Aged 25 to 34,[c],[c],[c],[c],[c],[c],[c],[c]
+Yes,Age: 8-category,Aged 35 to 44,40.9,39.6,42.2,41.1,39.8,42.4,"2,518","2,761,934"
+No,Age: 8-category,Aged 35 to 44,58.9,57.7,60.2,58.7,57.5,60,"3,250","3,979,556"
+Do not know,Age: 8-category,Aged 35 to 44,0.1,0,0.2,0.1,0,0.2,6,"8,080"
+Prefer not to say,Age: 8-category,Aged 35 to 44,[c],[c],[c],[c],[c],[c],[c],[c]
+Yes,Age: 8-category,Aged 45 to 54,41.4,40.6,42.3,41.4,40.6,42.3,"5,411","3,024,828"
+No,Age: 8-category,Aged 45 to 54,58.5,57.6,59.3,58.5,57.6,59.3,"7,096","4,266,798"
+Do not know,Age: 8-category,Aged 45 to 54,0.1,0,0.2,0.1,0,0.2,11,"7,436"
+Prefer not to say,Age: 8-category,Aged 45 to 54,[c],[c],[c],[c],[c],[c],[c],[c]
+Yes,Age: 8-category,Aged 55 to 64,40.4,39.8,41.1,40.4,39.8,41.1,"9,714","2,923,721"
+No,Age: 8-category,Aged 55 to 64,59.4,58.8,60.1,59.5,58.8,60.1,"13,728","4,297,011"
+Do not know,Age: 8-category,Aged 55 to 64,0.1,0,0.1,0.1,0,0.1,13,"3,912"
+Prefer not to say,Age: 8-category,Aged 55 to 64,[low],0,0.1,[low],0,0.1,10,"3,520"
+Yes,Age: 8-category,Aged 65 to 74,40.6,40.1,41.2,40.6,40,41.2,"11,941","3,135,285"
+No,Age: 8-category,Aged 65 to 74,59.3,58.7,59.8,59.3,58.7,59.8,"17,394","4,571,892"
+Do not know,Age: 8-category,Aged 65 to 74,0.1,0,0.1,0.1,0,0.1,21,"5,739"
+Prefer not to say,Age: 8-category,Aged 65 to 74,[low],0,0.1,[low],0,0.1,12,"2,937"
+Yes,Age: 8-category,Aged 75 to 84,43.3,42.5,44.1,43.6,42.8,44.4,"6,315","1,512,813"
+No,Age: 8-category,Aged 75 to 84,56.6,55.8,57.4,56.3,55.5,57.1,"8,307","1,976,083"
+Do not know,Age: 8-category,Aged 75 to 84,0.1,0,0.1,0.1,0,0.1,6,"1,764"
+Prefer not to say,Age: 8-category,Aged 75 to 84,[low],0,0.1,[low],0,0.1,6,"1,424"
+Yes,Age: 8-category,Aged 85 and over,46.1,43.3,48.9,46.1,43.3,48.9,555,"112,885"
+No,Age: 8-category,Aged 85 and over,53.8,51,56.6,53.8,51,56.6,659,"131,889"
+Do not know,Age: 8-category,Aged 85 and over,[c],[c],[c],[c],[c],[c],[c],[c]
+Prefer not to say,Age: 8-category,Aged 85 and over,[w],[w],[w],[w],[w],[w],[w],[w]
+Yes,Sex,Female,45.2,44.7,45.6,45.9,45.4,46.3,"22,702","10,584,276"
+No,Sex,Female,54.6,54.2,55.1,54,53.5,54.4,"27,369","12,810,882"
+Do not know,Sex,Female,0.2,0.1,0.2,0.1,0.1,0.2,35,"37,958"
+Prefer not to say,Sex,Female,[low],0,0.1,[low],0,[low],20,"8,766"
+Yes,Sex,Male,31.6,31.1,32,31.6,31.1,32.1,"14,094","6,916,433"
+No,Sex,Male,68.3,67.8,68.8,68.2,67.8,68.7,"23,852","14,957,856"
+Do not know,Sex,Male,0.1,0.1,0.1,0.1,0.1,0.2,28,"20,607"
+Prefer not to say,Sex,Male,[low],0,[low],[low],0,[low],11,"4,969"
+Yes,Age-Sex Group,Female: Aged 16 to 24,28.5,24.5,32.5,33.3,29.1,37.5,145,"788,900"
+No,Age-Sex Group,Female: Aged 16 to 24,70.7,66.6,74.7,66.1,61.8,70.3,333,"1,955,731"
+Do not know,Age-Sex Group,Female: Aged 16 to 24,0.8,0,1.6,0.7,0,1.4,4,"23,046"
+Prefer not to say,Age-Sex Group,Female: Aged 16 to 24,[w],[w],[w],[w],[w],[w],[w],[w]
+Yes,Age-Sex Group,Female: Aged 25 to 34,49.2,46.1,52.3,48.4,45.4,51.5,501,"1,905,194"
+No,Age-Sex Group,Female: Aged 25 to 34,50.6,47.6,53.7,51.4,48.4,54.5,518,"1,960,467"
+Do not know,Age-Sex Group,Female: Aged 25 to 34,[c],[c],[c],[c],[c],[c],[c],[c]
+Prefer not to say,Age-Sex Group,Female: Aged 25 to 34,[c],[c],[c],[c],[c],[c],[c],[c]
+Yes,Age-Sex Group,Female: Aged 35 to 44,51,49.4,52.6,51,49.4,52.6,"1,909","1,762,754"
+No,Age-Sex Group,Female: Aged 35 to 44,48.9,47.3,50.5,48.9,47.3,50.5,"1,829","1,690,560"
+Do not know,Age-Sex Group,Female: Aged 35 to 44,0.1,0,0.2,0.1,0,0.2,3,"3,023"
+Prefer not to say,Age-Sex Group,Female: Aged 35 to 44,[c],[c],[c],[c],[c],[c],[c],[c]
+Yes,Age-Sex Group,Female: Aged 45 to 54,51,49.9,52.1,50.7,49.6,51.8,"3,913","1,920,117"
+No,Age-Sex Group,Female: Aged 45 to 54,48.9,47.8,50,49.2,48.1,50.3,"3,886","1,843,476"
+Do not know,Age-Sex Group,Female: Aged 45 to 54,0.1,0,0.2,0.1,0,0.2,7,"4,050"
+Prefer not to say,Age-Sex Group,Female: Aged 45 to 54,[w],[w],[w],[w],[w],[w],[w],[w]
+Yes,Age-Sex Group,Female: Aged 55 to 64,46.1,45.3,47,46.2,45.4,47.1,"6,350","1,696,914"
+No,Age-Sex Group,Female: Aged 55 to 64,53.8,52.9,54.6,53.7,52.8,54.5,"7,494","1,978,401"
+Do not know,Age-Sex Group,Female: Aged 55 to 64,[low],0,0.1,[low],0,0.1,6,"1,521"
+Prefer not to say,Age-Sex Group,Female: Aged 55 to 64,0.1,0,0.1,0.1,0,0.1,7,"1,988"
+Yes,Age-Sex Group,Female: Aged 65 to 74,42,41.2,42.8,42,41.2,42.8,"6,656","1,681,834"
+No,Age-Sex Group,Female: Aged 65 to 74,57.9,57.1,58.7,57.9,57.1,58.6,"9,180","2,318,994"
+Do not know,Age-Sex Group,Female: Aged 65 to 74,0.1,0,0.1,0.1,0,0.1,12,"2,965"
+Prefer not to say,Age-Sex Group,Female: Aged 65 to 74,[low],0,0.1,[low],0,0.1,7,"1,716"
+Yes,Age-Sex Group,Female: Aged 75 to 84,43.5,42.3,44.6,43.9,42.7,45,"3,008","778,019"
+No,Age-Sex Group,Female: Aged 75 to 84,56.4,55.3,57.6,56.1,54.9,57.2,"3,885","1,009,924"
+Do not know,Age-Sex Group,Female: Aged 75 to 84,[c],[c],[c],[c],[c],[c],[c],[c]
+Prefer not to say,Age-Sex Group,Female: Aged 75 to 84,[low],0,0.1,[low],0,0.1,4,863
+Yes,Age-Sex Group,Female: Aged 85 and over,48.7,44.1,53.2,48.7,44.1,53.2,220,"50,545"
+No,Age-Sex Group,Female: Aged 85 and over,51.3,46.8,55.9,51.3,46.8,55.9,244,"53,330"
+Do not know,Age-Sex Group,Female: Aged 85 and over,[w],[w],[w],[w],[w],[w],[w],[w]
+Prefer not to say,Age-Sex Group,Female: Aged 85 and over,[w],[w],[w],[w],[w],[w],[w],[w]
+Yes,Age-Sex Group,Male: Aged 16 to 24,18,14,22,18.4,14.4,22.4,69,"496,335"
+No,Age-Sex Group,Male: Aged 16 to 24,81.8,77.8,85.8,81,77,85,292,"2,256,825"
+Do not know,Age-Sex Group,Male: Aged 16 to 24,[c],[c],[c],[c],[c],[c],[c],[c]
+Prefer not to say,Age-Sex Group,Male: Aged 16 to 24,[w],[w],[w],[w],[w],[w],[w],[w]
+Yes,Age-Sex Group,Male: Aged 25 to 34,28,24,32,26.5,22.6,30.4,140,"1,013,670"
+No,Age-Sex Group,Male: Aged 25 to 34,72,68,76,73.5,69.6,77.4,352,"2,606,767"
+Do not know,Age-Sex Group,Male: Aged 25 to 34,[w],[w],[w],[w],[w],[w],[w],[w]
+Prefer not to say,Age-Sex Group,Male: Aged 25 to 34,[w],[w],[w],[w],[w],[w],[w],[w]
+Yes,Age-Sex Group,Male: Aged 35 to 44,29.9,27.8,31.9,30.2,28.2,32.2,583,"965,041"
+No,Age-Sex Group,Male: Aged 35 to 44,69.9,67.9,72,69.6,67.6,71.6,"1,399","2,260,415"
+Do not know,Age-Sex Group,Male: Aged 35 to 44,0.2,0,0.3,0.2,0,0.3,3,"5,056"
+Prefer not to say,Age-Sex Group,Male: Aged 35 to 44,[c],[c],[c],[c],[c],[c],[c],[c]
+Yes,Age-Sex Group,Male: Aged 45 to 54,31.2,29.8,32.5,31.5,30.1,32.8,"1,448","1,077,405"
+No,Age-Sex Group,Male: Aged 45 to 54,68.7,67.4,70.1,68.4,67.1,69.7,"3,131","2,375,381"
+Do not know,Age-Sex Group,Male: Aged 45 to 54,0.1,0,0.2,0.1,0,0.2,4,"3,387"
+Prefer not to say,Age-Sex Group,Male: Aged 45 to 54,[c],[c],[c],[c],[c],[c],[c],[c]
+Yes,Age-Sex Group,Male: Aged 55 to 64,34.5,33.6,35.5,34.3,33.3,35.3,"3,272","1,199,635"
+No,Age-Sex Group,Male: Aged 55 to 64,65.4,64.4,66.3,65.6,64.6,66.6,"6,079","2,271,243"
+Do not know,Age-Sex Group,Male: Aged 55 to 64,0.1,0,0.1,0.1,0,0.1,6,"2,030"
+Prefer not to say,Age-Sex Group,Male: Aged 55 to 64,[c],[c],[c],[c],[c],[c],[c],[c]
+Yes,Age-Sex Group,Male: Aged 65 to 74,39,38.2,39.9,39.1,38.2,39.9,"5,113","1,408,175"
+No,Age-Sex Group,Male: Aged 65 to 74,60.8,60,61.7,60.8,60,61.7,"7,988","2,194,076"
+Do not know,Age-Sex Group,Male: Aged 65 to 74,0.1,0,0.1,0.1,0,0.1,9,"2,775"
+Prefer not to say,Age-Sex Group,Male: Aged 65 to 74,[low],0,0.1,[low],0,0.1,5,"1,221"
+Yes,Age-Sex Group,Male: Aged 75 to 84,43.1,41.9,44.2,43.3,42.2,44.4,"3,156","698,431"
+No,Age-Sex Group,Male: Aged 75 to 84,56.8,55.7,58,56.6,55.5,57.7,"4,231","922,129"
+Do not know,Age-Sex Group,Male: Aged 75 to 84,0.1,0,0.1,0.1,0,0.1,4,"1,145"
+Prefer not to say,Age-Sex Group,Male: Aged 75 to 84,[c],[c],[c],[c],[c],[c],[c],[c]
+Yes,Age-Sex Group,Male: Aged 85 and over,44.7,41,48.4,44.7,41,48.4,313,"57,741"
+No,Age-Sex Group,Male: Aged 85 and over,55,51.3,58.7,55,51.3,58.7,380,"71,021"
+Do not know,Age-Sex Group,Male: Aged 85 and over,[c],[c],[c],[c],[c],[c],[c],[c]
+Prefer not to say,Age-Sex Group,Male: Aged 85 and over,[w],[w],[w],[w],[w],[w],[w],[w]
+Yes,Ethnic Group [note 3],Asian or Asian British,37.4,34.9,39.8,38.3,35.8,40.7,624,"708,729"
+No,Ethnic Group [note 3],Asian or Asian British,62.5,60,64.9,61.5,59.1,64,893,"1,184,843"
+Do not know,Ethnic Group [note 3],Asian or Asian British,0.1,0,0.3,0.1,0,0.3,3,"1,961"
+Prefer not to say,Ethnic Group [note 3],Asian or Asian British,[c],[c],[c],[c],[c],[c],[c],[c]
+Yes,Ethnic Group [note 3],"Black, African, Caribbean or Black British",45,40.2,49.8,44,39.1,48.8,193,"164,664"
+No,Ethnic Group [note 3],"Black, African, Caribbean or Black British",54.4,49.6,59.3,55.6,50.8,60.4,214,"199,137"
+Do not know,Ethnic Group [note 3],"Black, African, Caribbean or Black British",[c],[c],[c],[c],[c],[c],[c],[c]
+Prefer not to say,Ethnic Group [note 3],"Black, African, Caribbean or Black British",[w],[w],[w],[w],[w],[w],[w],[w]
+Yes,Ethnic Group [note 3],Mixed or Multiple ethnic groups,30.5,27.2,33.9,40.7,37.1,44.2,309,"381,474"
+No,Ethnic Group [note 3],Mixed or Multiple ethnic groups,69.4,66,72.7,59.2,55.6,62.8,422,"866,655"
+Do not know,Ethnic Group [note 3],Mixed or Multiple ethnic groups,[c],[c],[c],[c],[c],[c],[c],[c]
+Prefer not to say,Ethnic Group [note 3],Mixed or Multiple ethnic groups,[w],[w],[w],[w],[w],[w],[w],[w]
+Yes,Ethnic Group [note 3],White,38.9,38.6,39.2,39.1,38.8,39.5,"35,422","16,067,511"
+No,Ethnic Group [note 3],White,61,60.6,61.3,60.7,60.4,61,"49,348","25,191,483"
+Do not know,Ethnic Group [note 3],White,0.1,0.1,0.2,0.1,0.1,0.2,57,"52,364"
+Prefer not to say,Ethnic Group [note 3],White,[low],0,[low],[low],0,[low],27,"12,124"
+Yes,Ethnic Group [note 3],Other Ethnic Group,35.2,31.4,39.1,37.3,33.4,41.2,248,"178,330"
+No,Ethnic Group [note 3],Other Ethnic Group,64.5,60.7,68.4,62.4,58.5,66.3,344,"326,620"
+Do not know,Ethnic Group [note 3],Other Ethnic Group,[c],[c],[c],[c],[c],[c],[c],[c]
+Prefer not to say,Ethnic Group [note 3],Other Ethnic Group,[c],[c],[c],[c],[c],[c],[c],[c]
+Yes,Disability Status [note 4],Disabled,56.9,56.1,57.7,57.7,57,58.5,"8,981","4,104,668"
+No,Disability Status [note 4],Disabled,42.7,41.9,43.5,41.8,41,42.5,"6,504","3,079,249"
+Do not know,Disability Status [note 4],Disabled,0.4,0.3,0.5,0.5,0.4,0.6,26,"25,863"
+Prefer not to say,Disability Status [note 4],Disabled,[low],0,0.1,[low],0,0.1,6,"2,167"
+Yes,Disability Status [note 4],Non-disabled,35,34.6,35.3,35.4,35.1,35.7,"28,023","13,471,320"
+No,Disability Status [note 4],Non-disabled,64.9,64.6,65.3,64.5,64.2,64.9,"45,196","25,015,630"
+Do not know,Disability Status [note 4],Non-disabled,0.1,0.1,0.1,0.1,0,0.1,35,"26,712"
+Prefer not to say,Disability Status [note 4],Non-disabled,[low],0,[low],[low],0,[low],19,"7,270"
+Yes,Disability Status [note 4],Disability status not disclosed,46.4,42.4,50.4,48.9,44.8,52.9,318,"190,050"
+No,Disability Status [note 4],Disability status not disclosed,50.9,46.9,54.9,49.3,45.3,53.3,270,"208,422"
+Do not know,Disability Status [note 4],Disability status not disclosed,1.6,0.6,2.5,1.1,0.3,1.9,3,"6,352"
+Prefer not to say,Disability Status [note 4],Disability status not disclosed,1.2,0.3,2,0.7,0.1,1.4,7,"4,736"
+Yes,Disability Severity [note 4],Disabled - Limited a little,55.6,54.6,56.5,56.3,55.4,57.2,"6,251","2,847,501"
+No,Disability Severity [note 4],Disabled - Limited a little,44.1,43.2,45,43.3,42.4,44.2,"4,896","2,261,862"
+Do not know,Disability Severity [note 4],Disabled - Limited a little,0.3,0.2,0.4,0.4,0.3,0.5,11,"16,040"
+Prefer not to say,Disability Severity [note 4],Disabled - Limited a little,[c],[c],[c],[c],[c],[c],[c],[c]
+Yes,Disability Severity [note 4],Disabled - Limited a lot,60.3,58.8,61.7,61,59.5,62.4,"2,730","1,257,167"
+No,Disability Severity [note 4],Disabled - Limited a lot,39.2,37.7,40.6,38.3,36.9,39.8,"1,608","817,387"
+Do not know,Disability Severity [note 4],Disabled - Limited a lot,0.5,0.3,0.7,0.6,0.4,0.9,15,"9,823"
+Prefer not to say,Disability Severity [note 4],Disabled - Limited a lot,0.1,0,0.2,0.1,0,0.2,4,"1,611"
+Yes,Disability Severity [note 4],Non-disabled - No Health Condition,33.1,32.7,33.5,33.8,33.4,34.2,"22,040","10,939,089"
+No,Disability Severity [note 4],Non-disabled - No Health Condition,66.8,66.4,67.2,66.2,65.8,66.5,"38,225","22,087,941"
+Do not know,Disability Severity [note 4],Non-disabled - No Health Condition,0.1,0,0.1,0.1,0,0.1,26,"21,521"
+Prefer not to say,Disability Severity [note 4],Non-disabled - No Health Condition,[low],0,[low],[low],0,[low],18,"6,930"
+Yes,Disability Severity [note 4],Non-disabled - Non-limiting health condition,46.3,45.5,47.2,46.3,45.5,47.2,"5,983","2,532,231"
+No,Disability Severity [note 4],Non-disabled - Non-limiting health condition,53.6,52.7,54.4,53.6,52.7,54.4,"6,971","2,927,690"
+Do not know,Disability Severity [note 4],Non-disabled - Non-limiting health condition,0.1,0,0.1,0.1,0,0.1,9,"5,191"
+Prefer not to say,Disability Severity [note 4],Non-disabled - Non-limiting health condition,[c],[c],[c],[c],[c],[c],[c],[c]
+Yes,Disability Severity [note 4],Disability status not disclosed,46.4,42.4,50.4,48.9,44.8,52.9,318,"190,050"
+No,Disability Severity [note 4],Disability status not disclosed,50.9,46.9,54.9,49.3,45.3,53.3,270,"208,422"
+Do not know,Disability Severity [note 4],Disability status not disclosed,1.6,0.6,2.5,1.1,0.3,1.9,3,"6,352"
+Prefer not to say,Disability Severity [note 4],Disability status not disclosed,1.2,0.3,2,0.7,0.1,1.4,7,"4,736"
+Yes,Indices of Multiple Deprivation [note 5],1st decile most deprived,44.8,42.9,46.8,43.5,41.6,45.5,"1,178","681,969"
+No,Indices of Multiple Deprivation [note 5],1st decile most deprived,54.9,52.9,56.8,56.2,54.3,58.2,"1,293","834,727"
+Do not know,Indices of Multiple Deprivation [note 5],1st decile most deprived,0.3,0.1,0.5,0.2,0,0.4,6,"3,845"
+Prefer not to say,Indices of Multiple Deprivation [note 5],1st decile most deprived,[c],[c],[c],[c],[c],[c],[c],[c]
+Yes,Indices of Multiple Deprivation [note 5],2nd decile,42.1,40.6,43.7,41,39.4,42.5,"1,663","980,397"
+No,Indices of Multiple Deprivation [note 5],2nd decile,57.8,56.2,59.4,59,57.4,60.6,"2,100","1,345,223"
+Do not know,Indices of Multiple Deprivation [note 5],2nd decile,[w],[w],[w],[w],[w],[w],[w],[w]
+Prefer not to say,Indices of Multiple Deprivation [note 5],2nd decile,[low],0,0.1,[low],0,0.1,3,714
+Yes,Indices of Multiple Deprivation [note 5],3nd decile,37.5,36.2,38.8,39.4,38.1,40.7,"2,317","1,170,380"
+No,Indices of Multiple Deprivation [note 5],3nd decile,62.4,61.1,63.7,60.5,59.1,61.8,"3,031","1,948,146"
+Do not know,Indices of Multiple Deprivation [note 5],3nd decile,0.1,0,0.1,0.1,0,0.1,4,"1,975"
+Prefer not to say,Indices of Multiple Deprivation [note 5],3nd decile,[low],0,0.1,[low],0,0.1,3,"1,464"
+Yes,Indices of Multiple Deprivation [note 5],4th decile,40.4,39.2,41.5,40.5,39.3,41.6,"3,057","1,548,913"
+No,Indices of Multiple Deprivation [note 5],4th decile,59.4,58.3,60.6,59.4,58.2,60.5,"4,064","2,280,121"
+Do not know,Indices of Multiple Deprivation [note 5],4th decile,0.1,0,0.2,0.1,0,0.2,5,"3,209"
+Prefer not to say,Indices of Multiple Deprivation [note 5],4th decile,0.1,0.1,0.2,0.1,0,0.2,6,"5,326"
+Yes,Indices of Multiple Deprivation [note 5],5th decile,38,37,39,39.3,38.3,40.3,"3,655","1,792,337"
+No,Indices of Multiple Deprivation [note 5],5th decile,61.8,60.8,62.8,60.3,59.3,61.3,"5,094","2,917,867"
+Do not know,Indices of Multiple Deprivation [note 5],5th decile,0.1,0.1,0.2,0.3,0.2,0.4,5,"6,961"
+Prefer not to say,Indices of Multiple Deprivation [note 5],5th decile,0.1,0,0.1,0.1,0,0.1,5,"2,687"
+Yes,Indices of Multiple Deprivation [note 5],6th decile,38.4,37.5,39.4,38,37.1,38.9,"4,339","2,008,785"
+No,Indices of Multiple Deprivation [note 5],6th decile,61.5,60.6,62.5,61.9,61,62.9,"5,883","3,216,528"
+Do not know,Indices of Multiple Deprivation [note 5],6th decile,0.1,0,0.1,0.1,0,0.1,6,"2,801"
+Prefer not to say,Indices of Multiple Deprivation [note 5],6th decile,[c],[c],[c],[c],[c],[c],[c],[c]
+Yes,Indices of Multiple Deprivation [note 5],7th decile,38,37.2,38.9,38.6,37.7,39.5,"4,690","2,102,985"
+No,Indices of Multiple Deprivation [note 5],7th decile,61.8,60.9,62.7,61.3,60.4,62.2,"6,665","3,414,228"
+Do not know,Indices of Multiple Deprivation [note 5],7th decile,0.2,0.1,0.3,0.1,0.1,0.2,9,"10,241"
+Prefer not to say,Indices of Multiple Deprivation [note 5],7th decile,[c],[c],[c],[c],[c],[c],[c],[c]
+Yes,Indices of Multiple Deprivation [note 5],8th decile,39.8,38.9,40.6,40.3,39.4,41.1,"5,108","2,409,183"
+No,Indices of Multiple Deprivation [note 5],8th decile,60,59.1,60.9,59.5,58.6,60.4,"7,224","3,634,585"
+Do not know,Indices of Multiple Deprivation [note 5],8th decile,0.2,0.1,0.3,0.2,0.1,0.3,10,"12,657"
+Prefer not to say,Indices of Multiple Deprivation [note 5],8th decile,[c],[c],[c],[c],[c],[c],[c],[c]
+Yes,Indices of Multiple Deprivation [note 5],9th decile,36.3,35.4,37.1,36.1,35.3,37,"5,312","2,390,114"
+No,Indices of Multiple Deprivation [note 5],9th decile,63.7,62.8,64.5,63.8,63,64.6,"7,693","4,194,253"
+Do not know,Indices of Multiple Deprivation [note 5],9th decile,0.1,0,0.1,0.1,0,0.1,9,"3,766"
+Prefer not to say,Indices of Multiple Deprivation [note 5],9th decile,[low],0,[low],[low],0,[low],4,"1,120"
+Yes,Indices of Multiple Deprivation [note 5],10th decile least deprived,37.2,36.4,37.9,38.6,37.8,39.4,"6,003","2,680,974"
+No,Indices of Multiple Deprivation [note 5],10th decile least deprived,62.6,61.9,63.4,61.3,60.5,62,"8,923","4,517,623"
+Do not know,Indices of Multiple Deprivation [note 5],10th decile least deprived,0.2,0.1,0.3,0.1,0.1,0.2,10,"13,473"
+Prefer not to say,Indices of Multiple Deprivation [note 5],10th decile least deprived,[low],0,[low],[low],0,[low],5,"1,603"
+Yes,Region,North East,36.4,34.9,37.9,36.5,35,38,"1,720","789,745"
+No,Region,North East,63.1,61.6,64.6,62.8,61.4,64.3,"2,382","1,368,059"
+Do not know,Region,North East,0.3,0.1,0.5,0.5,0.3,0.7,7,"6,384"
+Prefer not to say,Region,North East,0.2,0.1,0.4,0.2,0,0.3,5,"4,621"
+Yes,Region,North West,37.6,36.7,38.5,38.2,37.3,39.1,"4,607","2,296,800"
+No,Region,North West,62.2,61.3,63.1,61.6,60.7,62.5,"6,456","3,802,316"
+Do not know,Region,North West,0.2,0.1,0.3,0.2,0.1,0.3,8,"13,311"
+Prefer not to say,Region,North West,[c],[c],[c],[c],[c],[c],[c],[c]
+Yes,Region,Yorkshire and The Humber,40.1,39,41.1,41,40,42.1,"3,738","1,791,959"
+No,Region,Yorkshire and The Humber,59.9,58.9,60.9,58.9,57.9,60,"4,883","2,680,126"
+Do not know,Region,Yorkshire and The Humber,[low],0,0.1,[low],0,0.1,4,"1,266"
+Prefer not to say,Region,Yorkshire and The Humber,[low],0,[low],[low],0,[low],3,781
+Yes,Region,East Midlands,41.6,40.5,42.8,42.8,41.7,44,"3,054","1,690,045"
+No,Region,East Midlands,58.3,57.2,59.4,57.1,56,58.2,"4,216","2,366,047"
+Do not know,Region,East Midlands,0.1,0,0.1,0.1,0,0.1,5,"3,166"
+Prefer not to say,Region,East Midlands,[c],[c],[c],[c],[c],[c],[c],[c]
+Yes,Region,West Midlands,42.6,41.5,43.7,42.1,41,43.2,"3,389","2,043,093"
+No,Region,West Midlands,57,55.9,58.1,57.6,56.5,58.7,"4,302","2,736,508"
+Do not know,Region,West Midlands,0.3,0.2,0.5,0.3,0.2,0.4,8,"16,459"
+Prefer not to say,Region,West Midlands,[low],0,0.1,[low],0,0.1,6,"2,309"
+Yes,Region,East of England,37.2,36.3,38.1,37.7,36.8,38.6,"4,677","1,897,600"
+No,Region,East of England,62.6,61.7,63.5,62.1,61.3,63,"6,520","3,191,679"
+Do not know,Region,East of England,0.1,0,0.1,0.1,0,0.2,10,"4,504"
+Prefer not to say,Region,East of England,[low],0,0.1,[low],0,0.1,3,"1,632"
+Yes,Region,London,37.5,36.7,38.3,38.2,37.4,39,"5,685","2,597,244"
+No,Region,London,62.4,61.6,63.2,61.7,60.9,62.5,"8,015","4,327,539"
+Do not know,Region,London,0.1,0,0.1,0.1,0,0.1,10,"4,900"
+Prefer not to say,Region,London,[low],0,0.1,[low],0,0.1,6,"1,962"
+Yes,Region,South East,36.8,36.1,37.6,37.5,36.7,38.3,"6,166","2,788,306"
+No,Region,South East,63.1,62.3,63.8,62.2,61.5,63,"9,056","4,774,189"
+Do not know,Region,South East,0.1,0.1,0.2,0.2,0.2,0.3,7,"7,705"
+Prefer not to say,Region,South East,[low],0,[low],[low],0,[low],4,"1,697"
+Yes,Region,South West,38,37,38.9,37.8,36.9,38.8,"4,286","1,871,245"
+No,Region,South West,62,61.1,62.9,62.1,61.2,63.1,"6,140","3,056,839"
+Do not know,Region,South West,[low],0,0.1,[low],0,[low],5,"1,232"
+Prefer not to say,Region,South West,[low],0,[low],[low],0,[low],3,746
+Yes,Integrated Care Board,"NHS Bath and North East Somerset, Swindon and Wiltshire Integrated Care Board",35.5,33.4,37.7,35.9,33.7,38.1,763,"323,142"
+No,Integrated Care Board,"NHS Bath and North East Somerset, Swindon and Wiltshire Integrated Care Board",64.4,62.3,66.6,64.1,61.9,66.3,"1,114","586,203"
+Do not know,Integrated Care Board,"NHS Bath and North East Somerset, Swindon and Wiltshire Integrated Care Board",[c],[c],[c],[c],[c],[c],[c],[c]
+Prefer not to say,Integrated Care Board,"NHS Bath and North East Somerset, Swindon and Wiltshire Integrated Care Board",[w],[w],[w],[w],[w],[w],[w],[w]
+Yes,Integrated Care Board,"NHS Bedfordshire, Luton and Milton Keynes Integrated Care Board",37.4,35,39.8,37.4,35,39.8,658,"277,405"
+No,Integrated Care Board,"NHS Bedfordshire, Luton and Milton Keynes Integrated Care Board",62.4,60,64.8,62.4,60,64.8,878,"462,562"
+Do not know,Integrated Care Board,"NHS Bedfordshire, Luton and Milton Keynes Integrated Care Board",0.1,0,0.3,0.1,0,0.2,3,801
+Prefer not to say,Integrated Care Board,"NHS Bedfordshire, Luton and Milton Keynes Integrated Care Board",[c],[c],[c],[c],[c],[c],[c],[c]
+Yes,Integrated Care Board,NHS Birmingham and Solihull Integrated Care Board,40.2,37.4,43,41.5,38.7,44.4,491,"295,853"
+No,Integrated Care Board,NHS Birmingham and Solihull Integrated Care Board,59.7,56.9,62.5,58.3,55.5,61.2,683,"438,915"
+Do not know,Integrated Care Board,NHS Birmingham and Solihull Integrated Care Board,[c],[c],[c],[c],[c],[c],[c],[c]
+Prefer not to say,Integrated Care Board,NHS Birmingham and Solihull Integrated Care Board,[c],[c],[c],[c],[c],[c],[c],[c]
+Yes,Integrated Care Board,NHS Black Country Integrated Care Board,38.2,35.3,41.1,38.1,35.3,41,469,"217,681"
+No,Integrated Care Board,NHS Black Country Integrated Care Board,61.7,58.8,64.6,61.7,58.8,64.6,618,"351,640"
+Do not know,Integrated Care Board,NHS Black Country Integrated Care Board,[w],[w],[w],[w],[w],[w],[w],[w]
+Prefer not to say,Integrated Care Board,NHS Black Country Integrated Care Board,0.1,0,0.4,0.1,0,0.4,3,838
+Yes,Integrated Care Board,"NHS Bristol, North Somerset and South Gloucestershire Integrated Care Board",39.9,37.4,42.4,42.5,39.9,45,602,"356,339"
+No,Integrated Care Board,"NHS Bristol, North Somerset and South Gloucestershire Integrated Care Board",60.1,57.6,62.6,57.5,55,60.1,863,"536,246"
+Do not know,Integrated Care Board,"NHS Bristol, North Somerset and South Gloucestershire Integrated Care Board",[c],[c],[c],[c],[c],[c],[c],[c]
+Prefer not to say,Integrated Care Board,"NHS Bristol, North Somerset and South Gloucestershire Integrated Care Board",[w],[w],[w],[w],[w],[w],[w],[w]
+Yes,Integrated Care Board,"NHS Buckinghamshire, Oxfordshire and Berkshire West Integrated Care Board",34.3,32.5,36.1,36,34.2,37.8,"1,070","542,975"
+No,Integrated Care Board,"NHS Buckinghamshire, Oxfordshire and Berkshire West Integrated Care Board",65.7,63.9,67.4,63.9,62.2,65.7,"1,724","1,039,634"
+Do not know,Integrated Care Board,"NHS Buckinghamshire, Oxfordshire and Berkshire West Integrated Care Board",[c],[c],[c],[c],[c],[c],[c],[c]
+Prefer not to say,Integrated Care Board,"NHS Buckinghamshire, Oxfordshire and Berkshire West Integrated Care Board",[c],[c],[c],[c],[c],[c],[c],[c]
+Yes,Integrated Care Board,NHS Cambridgeshire and Peterborough Integrated Care Board,39,36.6,41.3,37.8,35.5,40.2,687,"318,704"
+No,Integrated Care Board,NHS Cambridgeshire and Peterborough Integrated Care Board,61,58.6,63.3,62.1,59.8,64.4,996,"498,665"
+Do not know,Integrated Care Board,NHS Cambridgeshire and Peterborough Integrated Care Board,[c],[c],[c],[c],[c],[c],[c],[c]
+Prefer not to say,Integrated Care Board,NHS Cambridgeshire and Peterborough Integrated Care Board,[w],[w],[w],[w],[w],[w],[w],[w]
+Yes,Integrated Care Board,NHS Cheshire and Merseyside Integrated Care Board,34.7,33.2,36.2,34.9,33.4,36.5,"1,497","851,638"
+No,Integrated Care Board,NHS Cheshire and Merseyside Integrated Care Board,65.3,63.7,66.8,65,63.5,66.5,"2,237","1,602,718"
+Do not know,Integrated Care Board,NHS Cheshire and Merseyside Integrated Care Board,[c],[c],[c],[c],[c],[c],[c],[c]
+Prefer not to say,Integrated Care Board,NHS Cheshire and Merseyside Integrated Care Board,[w],[w],[w],[w],[w],[w],[w],[w]
+Yes,Integrated Care Board,NHS Cornwall and the Isles of Scilly Integrated Care Board,38.9,35.9,41.8,40.1,37.1,43.1,424,"182,876"
+No,Integrated Care Board,NHS Cornwall and the Isles of Scilly Integrated Care Board,61.1,58.2,64.1,59.9,56.9,62.9,603,"287,822"
+Do not know,Integrated Care Board,NHS Cornwall and the Isles of Scilly Integrated Care Board,[w],[w],[w],[w],[w],[w],[w],[w]
+Prefer not to say,Integrated Care Board,NHS Cornwall and the Isles of Scilly Integrated Care Board,[w],[w],[w],[w],[w],[w],[w],[w]
+Yes,Integrated Care Board,NHS Coventry and Warwickshire Integrated Care Board,42.2,39.6,44.9,37.5,34.9,40.1,570,"381,662"
+No,Integrated Care Board,NHS Coventry and Warwickshire Integrated Care Board,57.7,55.1,60.4,62.4,59.8,65,759,"522,019"
+Do not know,Integrated Care Board,NHS Coventry and Warwickshire Integrated Care Board,[c],[c],[c],[c],[c],[c],[c],[c]
+Prefer not to say,Integrated Care Board,NHS Coventry and Warwickshire Integrated Care Board,[w],[w],[w],[w],[w],[w],[w],[w]
+Yes,Integrated Care Board,NHS Derby and Derbyshire Integrated Care Board,39,36.8,41.1,43,40.8,45.2,766,"390,912"
+No,Integrated Care Board,NHS Derby and Derbyshire Integrated Care Board,61,58.8,63.2,57,54.8,59.2,"1,175","611,777"
+Do not know,Integrated Care Board,NHS Derby and Derbyshire Integrated Care Board,[c],[c],[c],[c],[c],[c],[c],[c]
+Prefer not to say,Integrated Care Board,NHS Derby and Derbyshire Integrated Care Board,[w],[w],[w],[w],[w],[w],[w],[w]
+Yes,Integrated Care Board,NHS Devon Integrated Care Board,38.7,36.7,40.7,37.2,35.2,39.2,931,"415,184"
+No,Integrated Care Board,NHS Devon Integrated Care Board,61.3,59.2,63.3,62.7,60.7,64.7,"1,294","657,378"
+Do not know,Integrated Care Board,NHS Devon Integrated Care Board,[c],[c],[c],[c],[c],[c],[c],[c]
+Prefer not to say,Integrated Care Board,NHS Devon Integrated Care Board,[w],[w],[w],[w],[w],[w],[w],[w]
+Yes,Integrated Care Board,NHS Dorset Integrated Care Board,33.7,31.3,36.1,33.4,31,35.7,623,"192,265"
+No,Integrated Care Board,NHS Dorset Integrated Care Board,66.2,63.9,68.6,66.6,64.2,68.9,915,"377,937"
+Do not know,Integrated Care Board,NHS Dorset Integrated Care Board,[c],[c],[c],[c],[c],[c],[c],[c]
+Prefer not to say,Integrated Care Board,NHS Dorset Integrated Care Board,[c],[c],[c],[c],[c],[c],[c],[c]
+Yes,Integrated Care Board,NHS Frimley Integrated Care Board,30.3,27.6,33,31.3,28.6,34,409,"164,879"
+No,Integrated Care Board,NHS Frimley Integrated Care Board,69.7,67,72.4,68.7,66,71.4,706,"379,101"
+Do not know,Integrated Care Board,NHS Frimley Integrated Care Board,[w],[w],[w],[w],[w],[w],[w],[w]
+Prefer not to say,Integrated Care Board,NHS Frimley Integrated Care Board,[w],[w],[w],[w],[w],[w],[w],[w]
+Yes,Integrated Care Board,NHS Gloucestershire Integrated Care Board,42,39.1,44.9,38.6,35.8,41.4,460,"216,507"
+No,Integrated Care Board,NHS Gloucestershire Integrated Care Board,57.9,55.1,60.8,61.3,58.5,64.2,686,"298,708"
+Do not know,Integrated Care Board,NHS Gloucestershire Integrated Care Board,[w],[w],[w],[w],[w],[w],[w],[w]
+Prefer not to say,Integrated Care Board,NHS Gloucestershire Integrated Care Board,[c],[c],[c],[c],[c],[c],[c],[c]
+Yes,Integrated Care Board,NHS Greater Manchester Integrated Care Board,41.2,39.6,42.7,42.7,41.1,44.2,"1,687","762,834"
+No,Integrated Care Board,NHS Greater Manchester Integrated Care Board,58.2,56.7,59.8,56.8,55.3,58.3,"2,270","1,079,413"
+Do not know,Integrated Care Board,NHS Greater Manchester Integrated Care Board,0.6,0.4,0.8,0.5,0.3,0.7,4,"10,987"
+Prefer not to say,Integrated Care Board,NHS Greater Manchester Integrated Care Board,[c],[c],[c],[c],[c],[c],[c],[c]
+Yes,Integrated Care Board,NHS Hampshire and Isle of Wight Integrated Care Board,36.4,34.8,38,37.8,36.2,39.4,"1,334","596,128"
+No,Integrated Care Board,NHS Hampshire and Isle of Wight Integrated Care Board,63.2,61.6,64.8,61,59.4,62.7,"2,019","1,035,227"
+Do not know,Integrated Care Board,NHS Hampshire and Isle of Wight Integrated Care Board,0.4,0.2,0.6,1.1,0.8,1.5,3,"6,507"
+Prefer not to say,Integrated Care Board,NHS Hampshire and Isle of Wight Integrated Care Board,[c],[c],[c],[c],[c],[c],[c],[c]
+Yes,Integrated Care Board,NHS Herefordshire and Worcestershire Integrated Care Board,47.3,44.8,49.8,49.6,47.2,52.1,753,"462,750"
+No,Integrated Care Board,NHS Herefordshire and Worcestershire Integrated Care Board,51.8,49.4,54.3,49.5,47,51.9,828,"507,337"
+Do not know,Integrated Care Board,NHS Herefordshire and Worcestershire Integrated Care Board,0.9,0.4,1.3,0.9,0.4,1.4,3,"8,415"
+Prefer not to say,Integrated Care Board,NHS Herefordshire and Worcestershire Integrated Care Board,[w],[w],[w],[w],[w],[w],[w],[w]
+Yes,Integrated Care Board,NHS Hertfordshire and West Essex Integrated Care Board,35.6,33.7,37.6,34.9,33,36.9,958,"382,752"
+No,Integrated Care Board,NHS Hertfordshire and West Essex Integrated Care Board,64.2,62.3,66.2,64.9,63,66.8,"1,382","690,137"
+Do not know,Integrated Care Board,NHS Hertfordshire and West Essex Integrated Care Board,0.1,0,0.3,0.2,0,0.3,3,"1,328"
+Prefer not to say,Integrated Care Board,NHS Hertfordshire and West Essex Integrated Care Board,[w],[w],[w],[w],[w],[w],[w],[w]
+Yes,Integrated Care Board,NHS Humber and North Yorkshire Integrated Care Board,38.3,36.6,40,39,37.3,40.7,"1,385","660,492"
+No,Integrated Care Board,NHS Humber and North Yorkshire Integrated Care Board,61.6,59.9,63.3,61,59.3,62.7,"1,787","1,061,741"
+Do not know,Integrated Care Board,NHS Humber and North Yorkshire Integrated Care Board,[c],[c],[c],[c],[c],[c],[c],[c]
+Prefer not to say,Integrated Care Board,NHS Humber and North Yorkshire Integrated Care Board,[c],[c],[c],[c],[c],[c],[c],[c]
+Yes,Integrated Care Board,NHS Kent and Medway Integrated Care Board,38.4,36.6,40.2,39.6,37.8,41.4,"1,170","491,655"
+No,Integrated Care Board,NHS Kent and Medway Integrated Care Board,61.6,59.8,63.4,60.4,58.6,62.2,"1,642","787,895"
+Do not know,Integrated Care Board,NHS Kent and Medway Integrated Care Board,[w],[w],[w],[w],[w],[w],[w],[w]
+Prefer not to say,Integrated Care Board,NHS Kent and Medway Integrated Care Board,[w],[w],[w],[w],[w],[w],[w],[w]
+Yes,Integrated Care Board,NHS Lancashire and South Cumbria Integrated Care Board,37.8,36,39.6,38.2,36.4,40.1,"1,108","556,335"
+No,Integrated Care Board,NHS Lancashire and South Cumbria Integrated Care Board,62.1,60.3,64,61.7,59.9,63.5,"1,573","914,472"
+Do not know,Integrated Care Board,NHS Lancashire and South Cumbria Integrated Care Board,[c],[c],[c],[c],[c],[c],[c],[c]
+Prefer not to say,Integrated Care Board,NHS Lancashire and South Cumbria Integrated Care Board,[w],[w],[w],[w],[w],[w],[w],[w]
+Yes,Integrated Care Board,"NHS Leicester, Leicestershire and Rutland Integrated Care Board",41.4,38.9,44,41.2,38.7,43.7,627,"356,364"
+No,Integrated Care Board,"NHS Leicester, Leicestershire and Rutland Integrated Care Board",58.4,55.9,60.9,58.6,56.1,61.1,842,"502,211"
+Do not know,Integrated Care Board,"NHS Leicester, Leicestershire and Rutland Integrated Care Board",0.2,0,0.4,0.1,0,0.3,3,"1,309"
+Prefer not to say,Integrated Care Board,"NHS Leicester, Leicestershire and Rutland Integrated Care Board",[w],[w],[w],[w],[w],[w],[w],[w]
+Yes,Integrated Care Board,NHS Lincolnshire Integrated Care Board,44.9,42.2,47.5,45.8,43.2,48.5,602,"302,091"
+No,Integrated Care Board,NHS Lincolnshire Integrated Care Board,55.1,52.5,57.7,54.1,51.5,56.8,780,"371,173"
+Do not know,Integrated Care Board,NHS Lincolnshire Integrated Care Board,[w],[w],[w],[w],[w],[w],[w],[w]
+Prefer not to say,Integrated Care Board,NHS Lincolnshire Integrated Care Board,[c],[c],[c],[c],[c],[c],[c],[c]
+Yes,Integrated Care Board,NHS Mid and South Essex Integrated Care Board,38.8,36.6,41.1,39.6,37.3,41.8,785,"330,932"
+No,Integrated Care Board,NHS Mid and South Essex Integrated Care Board,61.1,58.9,63.4,60.4,58.2,62.7,"1,048","520,817"
+Do not know,Integrated Care Board,NHS Mid and South Essex Integrated Care Board,[c],[c],[c],[c],[c],[c],[c],[c]
+Prefer not to say,Integrated Care Board,NHS Mid and South Essex Integrated Care Board,[w],[w],[w],[w],[w],[w],[w],[w]
+Yes,Integrated Care Board,NHS Norfolk and Waveney Integrated Care Board,38.2,36.2,40.3,40.6,38.5,42.7,908,"359,214"
+No,Integrated Care Board,NHS Norfolk and Waveney Integrated Care Board,61.7,59.6,63.8,59.3,57.2,61.4,"1,244","579,954"
+Do not know,Integrated Care Board,NHS Norfolk and Waveney Integrated Care Board,[c],[c],[c],[c],[c],[c],[c],[c]
+Prefer not to say,Integrated Care Board,NHS Norfolk and Waveney Integrated Care Board,[c],[c],[c],[c],[c],[c],[c],[c]
+Yes,Integrated Care Board,NHS North Central London Integrated Care Board,39.4,37.3,41.4,39.9,37.9,42,928,"403,916"
+No,Integrated Care Board,NHS North Central London Integrated Care Board,60.5,58.5,62.5,60,57.9,62,"1,311","620,921"
+Do not know,Integrated Care Board,NHS North Central London Integrated Care Board,[c],[c],[c],[c],[c],[c],[c],[c]
+Prefer not to say,Integrated Care Board,NHS North Central London Integrated Care Board,[c],[c],[c],[c],[c],[c],[c],[c]
+Yes,Integrated Care Board,NHS North East London Integrated Care Board,39.1,37,41.1,38.9,36.9,41,936,"474,674"
+No,Integrated Care Board,NHS North East London Integrated Care Board,60.8,58.8,62.9,61,58.9,63,"1,260","739,523"
+Do not know,Integrated Care Board,NHS North East London Integrated Care Board,[c],[c],[c],[c],[c],[c],[c],[c]
+Prefer not to say,Integrated Care Board,NHS North East London Integrated Care Board,[c],[c],[c],[c],[c],[c],[c],[c]
+Yes,Integrated Care Board,NHS North East and North Cumbria Integrated Care Board,36.7,35.3,38,36.8,35.4,38.1,"2,044","919,178"
+No,Integrated Care Board,NHS North East and North Cumbria Integrated Care Board,62.9,61.5,64.3,62.7,61.3,64.1,"2,766","1,576,649"
+Do not know,Integrated Care Board,NHS North East and North Cumbria Integrated Care Board,0.3,0.1,0.4,0.4,0.2,0.6,7,"6,384"
+Prefer not to say,Integrated Care Board,NHS North East and North Cumbria Integrated Care Board,0.2,0.1,0.3,0.1,0,0.2,5,"4,621"
+Yes,Integrated Care Board,NHS North West London Integrated Care Board,35.2,33.4,37.1,36.6,34.7,38.4,"1,067","445,022"
+No,Integrated Care Board,NHS North West London Integrated Care Board,64.6,62.8,66.5,63.3,61.5,65.2,"1,534","816,195"
+Do not know,Integrated Care Board,NHS North West London Integrated Care Board,[c],[c],[c],[c],[c],[c],[c],[c]
+Prefer not to say,Integrated Care Board,NHS North West London Integrated Care Board,[w],[w],[w],[w],[w],[w],[w],[w]
+Yes,Integrated Care Board,NHS Northamptonshire Integrated Care Board,40.9,37.7,44,39.9,36.8,43,380,"240,600"
+No,Integrated Care Board,NHS Northamptonshire Integrated Care Board,58.9,55.8,62,59.8,56.7,62.9,581,"346,753"
+Do not know,Integrated Care Board,NHS Northamptonshire Integrated Care Board,[c],[c],[c],[c],[c],[c],[c],[c]
+Prefer not to say,Integrated Care Board,NHS Northamptonshire Integrated Care Board,[w],[w],[w],[w],[w],[w],[w],[w]
+Yes,Integrated Care Board,NHS Nottingham and Nottinghamshire Integrated Care Board,42.8,40.3,45.3,43.1,40.6,45.5,679,"400,077"
+No,Integrated Care Board,NHS Nottingham and Nottinghamshire Integrated Care Board,57.2,54.7,59.7,56.9,54.5,59.4,838,"534,134"
+Do not know,Integrated Care Board,NHS Nottingham and Nottinghamshire Integrated Care Board,[w],[w],[w],[w],[w],[w],[w],[w]
+Prefer not to say,Integrated Care Board,NHS Nottingham and Nottinghamshire Integrated Care Board,[w],[w],[w],[w],[w],[w],[w],[w]
+Yes,Integrated Care Board,"NHS Shropshire, Telford and Wrekin Integrated Care Board",45.8,42.6,49,40.8,37.7,43.9,425,"257,531"
+No,Integrated Care Board,"NHS Shropshire, Telford and Wrekin Integrated Care Board",54,50.8,57.2,59.1,55.9,62.2,521,"303,893"
+Do not know,Integrated Care Board,"NHS Shropshire, Telford and Wrekin Integrated Care Board",[w],[w],[w],[w],[w],[w],[w],[w]
+Prefer not to say,Integrated Care Board,"NHS Shropshire, Telford and Wrekin Integrated Care Board",[c],[c],[c],[c],[c],[c],[c],[c]
+Yes,Integrated Care Board,NHS Somerset Integrated Care Board,37.3,34.5,40,34.4,31.7,37.1,491,"187,157"
+No,Integrated Care Board,NHS Somerset Integrated Care Board,62.7,59.9,65.5,65.6,62.9,68.3,672,"314,929"
+Do not know,Integrated Care Board,NHS Somerset Integrated Care Board,[w],[w],[w],[w],[w],[w],[w],[w]
+Prefer not to say,Integrated Care Board,NHS Somerset Integrated Care Board,[c],[c],[c],[c],[c],[c],[c],[c]
+Yes,Integrated Care Board,NHS South East London Integrated Care Board,36.9,35.3,38.6,38.5,36.9,40.2,"1,351","663,922"
+No,Integrated Care Board,NHS South East London Integrated Care Board,63,61.4,64.7,61.4,59.8,63.1,"1,969","1,133,342"
+Do not know,Integrated Care Board,NHS South East London Integrated Care Board,[c],[c],[c],[c],[c],[c],[c],[c]
+Prefer not to say,Integrated Care Board,NHS South East London Integrated Care Board,[c],[c],[c],[c],[c],[c],[c],[c]
+Yes,Integrated Care Board,NHS South West London Integrated Care Board,37.4,35.8,39.1,39.2,37.5,40.8,"1,403","609,710"
+No,Integrated Care Board,NHS South West London Integrated Care Board,62.5,60.8,64.1,60.7,59.1,62.4,"1,941","1,017,558"
+Do not know,Integrated Care Board,NHS South West London Integrated Care Board,0.1,0,0.2,0.1,0,0.2,3,"1,138"
+Prefer not to say,Integrated Care Board,NHS South West London Integrated Care Board,[c],[c],[c],[c],[c],[c],[c],[c]
+Yes,Integrated Care Board,NHS South Yorkshire Integrated Care Board,45.8,43.5,48.1,47.1,44.8,49.3,839,"449,668"
+No,Integrated Care Board,NHS South Yorkshire Integrated Care Board,54.2,51.9,56.4,52.9,50.6,55.2,"1,004","531,671"
+Do not know,Integrated Care Board,NHS South Yorkshire Integrated Care Board,[w],[w],[w],[w],[w],[w],[w],[w]
+Prefer not to say,Integrated Care Board,NHS South Yorkshire Integrated Care Board,[c],[c],[c],[c],[c],[c],[c],[c]
+Yes,Integrated Care Board,NHS Staffordshire and Stoke-on-Trent Integrated Care Board,40.8,38.4,43.3,40,37.6,42.4,681,"427,617"
+No,Integrated Care Board,NHS Staffordshire and Stoke-on-Trent Integrated Care Board,58.5,56.1,60.9,59.2,56.8,61.7,893,"612,704"
+Do not know,Integrated Care Board,NHS Staffordshire and Stoke-on-Trent Integrated Care Board,0.7,0.3,1.1,0.7,0.3,1.1,3,"7,156"
+Prefer not to say,Integrated Care Board,NHS Staffordshire and Stoke-on-Trent Integrated Care Board,[w],[w],[w],[w],[w],[w],[w],[w]
+Yes,Integrated Care Board,NHS Suffolk and North East Essex Integrated Care Board,34.1,32,36.1,33.7,31.6,35.7,861,"296,434"
+No,Integrated Care Board,NHS Suffolk and North East Essex Integrated Care Board,65.6,63.6,67.7,65.9,63.8,67.9,"1,208","571,322"
+Do not know,Integrated Care Board,NHS Suffolk and North East Essex Integrated Care Board,[c],[c],[c],[c],[c],[c],[c],[c]
+Prefer not to say,Integrated Care Board,NHS Suffolk and North East Essex Integrated Care Board,[c],[c],[c],[c],[c],[c],[c],[c]
+Yes,Integrated Care Board,NHS Surrey Heartlands Integrated Care Board,43.7,41.3,46,41.2,38.9,43.5,772,"357,479"
+No,Integrated Care Board,NHS Surrey Heartlands Integrated Care Board,56.3,54,58.7,58.8,56.5,61.1,969,"461,021"
+Do not know,Integrated Care Board,NHS Surrey Heartlands Integrated Care Board,[w],[w],[w],[w],[w],[w],[w],[w]
+Prefer not to say,Integrated Care Board,NHS Surrey Heartlands Integrated Care Board,[w],[w],[w],[w],[w],[w],[w],[w]
+Yes,Integrated Care Board,NHS Sussex Integrated Care Board,37.6,35.9,39.3,37.2,35.5,39,"1,223","565,123"
+No,Integrated Care Board,NHS Sussex Integrated Care Board,62.3,60.6,64.1,62.7,61,64.4,"1,753","937,148"
+Do not know,Integrated Care Board,NHS Sussex Integrated Care Board,[c],[c],[c],[c],[c],[c],[c],[c]
+Prefer not to say,Integrated Care Board,NHS Sussex Integrated Care Board,[c],[c],[c],[c],[c],[c],[c],[c]
+Yes,Integrated Care Board,NHS West Yorkshire Integrated Care Board,38.5,36.9,40.1,38,36.5,39.6,"1,505","678,359"
+No,Integrated Care Board,NHS West Yorkshire Integrated Care Board,61.5,59.9,63.1,61.9,60.3,63.5,"2,084","1,083,838"
+Do not know,Integrated Care Board,NHS West Yorkshire Integrated Care Board,[c],[c],[c],[c],[c],[c],[c],[c]
+Prefer not to say,Integrated Care Board,NHS West Yorkshire Integrated Care Board,[c],[c],[c],[c],[c],[c],[c],[c]
+Yes,Long Covid Status,Reports having Long Covid,55.2,53.6,56.8,53.7,52.1,55.3,"2,110","964,794"
+No,Long Covid Status,Reports having Long Covid,44.1,42.4,45.7,45.6,44,47.3,"1,515","769,821"
+Do not know,Long Covid Status,Reports having Long Covid,0.7,0.5,1,0.6,0.4,0.9,13,"12,730"
+Prefer not to say,Long Covid Status,Reports having Long Covid,[c],[c],[c],[c],[c],[c],[c],[c]
+Yes,Long Covid Status,Does not report having Long Covid,37.8,37.5,38.2,38.4,38.1,38.7,"35,212","16,801,243"
+No,Long Covid Status,Does not report having Long Covid,62,61.7,62.3,61.5,61.1,61.8,"50,455","27,533,480"
+Do not know,Long Covid Status,Does not report having Long Covid,0.1,0.1,0.1,0.1,0.1,0.1,51,"46,196"
+Prefer not to say,Long Covid Status,Does not report having Long Covid,[low],0,[low],[low],0,[low],30,"13,913"
+Yes,Employment Status [note 6],In Employment,39.2,38.7,39.7,39.5,39,40,"15,332","10,480,968"
+No,Employment Status [note 6],In Employment,60.6,60.1,61.1,60.4,59.9,60.9,"21,864","16,196,771"
+Do not know,Employment Status [note 6],In Employment,0.1,0.1,0.1,0.1,0.1,0.2,24,"23,605"
+Prefer not to say,Employment Status [note 6],In Employment,[low],0,[low],[low],0,[low],12,"5,657"
+Yes,Employment Status [note 6],In Education,20,17,23,43.2,39.5,46.8,175,"851,689"
+No,Employment Status [note 6],In Education,79.5,76.5,82.5,56.6,53,60.3,518,"3,387,063"
+Do not know,Employment Status [note 6],In Education,0.5,0,1.1,0.2,0,0.5,4,"22,528"
+Prefer not to say,Employment Status [note 6],In Education,[w],[w],[w],[w],[w],[w],[w],[w]
+Yes,Employment Status [note 6],Unemployed,29.3,25.8,32.9,37.3,33.5,41,271,"205,445"
+No,Employment Status [note 6],Unemployed,70.7,67.1,74.2,62.7,59,66.5,361,"495,022"
+Do not know,Employment Status [note 6],Unemployed,[w],[w],[w],[w],[w],[w],[w],[w]
+Prefer not to say,Employment Status [note 6],Unemployed,[w],[w],[w],[w],[w],[w],[w],[w]
+Yes,Employment Status [note 6],Economically Inactive,43,42.6,43.5,48,47.6,48.5,"21,543","6,227,578"
+No,Employment Status [note 6],Economically Inactive,56.8,56.4,57.3,51.7,51.3,52.1,"29,222","8,222,923"
+Do not know,Employment Status [note 6],Economically Inactive,0.1,0.1,0.1,0.2,0.1,0.2,36,"12,794"
+Prefer not to say,Employment Status [note 6],Economically Inactive,0.1,0,0.1,0.1,0.1,0.1,20,"8,516"
+Yes,Employment Status: detailed [note 6],Employee,39.2,38.6,39.7,39.2,38.7,39.7,"12,933","9,387,270"
+No,Employment Status: detailed [note 6],Employee,60.7,60.2,61.3,60.7,60.1,61.2,"18,518","14,565,828"
+Do not know,Employment Status: detailed [note 6],Employee,0.1,0,0.1,0.1,0.1,0.1,17,"18,451"
+Prefer not to say,Employment Status: detailed [note 6],Employee,[low],0,[low],[low],0,[low],11,"5,375"
+Yes,Employment Status: detailed [note 6],Self-Employed,40.1,38.8,41.3,41,39.8,42.3,"2,399","1,093,698"
+No,Employment Status: detailed [note 6],Self-Employed,59.7,58.5,61,58.8,57.5,60,"3,346","1,630,943"
+Do not know,Employment Status: detailed [note 6],Self-Employed,0.2,0.1,0.3,0.2,0.1,0.3,7,"5,153"
+Prefer not to say,Employment Status: detailed [note 6],Self-Employed,[c],[c],[c],[c],[c],[c],[c],[c]
+Yes,Employment Status: detailed [note 6],In Education - College or Apprenticeship,17.9,13.7,22,39.1,33.8,44.4,62,"413,246"
+No,Employment Status: detailed [note 6],In Education - College or Apprenticeship,81.6,77.3,85.8,60.8,55.5,66.1,262,"1,885,491"
+Do not know,Employment Status: detailed [note 6],In Education - College or Apprenticeship,[c],[c],[c],[c],[c],[c],[c],[c]
+Prefer not to say,Employment Status: detailed [note 6],In Education - College or Apprenticeship,[w],[w],[w],[w],[w],[w],[w],[w]
+Yes,Employment Status: detailed [note 6],In Education - University,30.1,24.5,35.8,42.4,36.3,48.5,98,"333,954"
+No,Employment Status: detailed [note 6],In Education - University,69,63.3,74.7,57.4,51.3,63.5,153,"764,459"
+Do not know,Employment Status: detailed [note 6],In Education - University,[c],[c],[c],[c],[c],[c],[c],[c]
+Prefer not to say,Employment Status: detailed [note 6],In Education - University,[w],[w],[w],[w],[w],[w],[w],[w]
+Yes,Employment Status: detailed [note 6],Unemployed,29.3,25.8,32.9,37.3,33.5,41,271,"205,445"
+No,Employment Status: detailed [note 6],Unemployed,70.7,67.1,74.2,62.7,59,66.5,361,"495,022"
+Do not know,Employment Status: detailed [note 6],Unemployed,[w],[w],[w],[w],[w],[w],[w],[w]
+Prefer not to say,Employment Status: detailed [note 6],Unemployed,[w],[w],[w],[w],[w],[w],[w],[w]
+Yes,Employment Status: detailed [note 6],Economically Inactive - Long-Term Sick,55.9,53.4,58.4,56.6,54.1,59.1,970,"554,580"
+No,Employment Status: detailed [note 6],Economically Inactive - Long-Term Sick,43.1,40.6,45.6,42.7,40.2,45.1,540,"427,146"
+Do not know,Employment Status: detailed [note 6],Economically Inactive - Long-Term Sick,0.5,0.2,0.9,0.4,0.1,0.7,10,"5,040"
+Prefer not to say,Employment Status: detailed [note 6],Economically Inactive - Long-Term Sick,0.5,0.1,0.8,0.3,0,0.6,4,"4,633"
+Yes,Employment Status: detailed [note 6],Economically Inactive - Looking After Family or Home or doesn't want work,51.5,49.5,53.4,52.9,51,54.9,"1,201","619,601"
+No,Employment Status: detailed [note 6],Economically Inactive - Looking After Family or Home or doesn't want work,48.5,46.5,50.5,47,45.1,49,"1,264","583,684"
+Do not know,Employment Status: detailed [note 6],Economically Inactive - Looking After Family or Home or doesn't want work,[c],[c],[c],[c],[c],[c],[c],[c]
+Prefer not to say,Employment Status: detailed [note 6],Economically Inactive - Looking After Family or Home or doesn't want work,[w],[w],[w],[w],[w],[w],[w],[w]
+Yes,Employment Status: detailed [note 6],Economically Inactive - Retired,41.2,40.7,41.6,32.7,32.2,33.1,"19,372","5,053,397"
+No,Employment Status: detailed [note 6],Economically Inactive - Retired,58.7,58.3,59.2,67.3,66.9,67.7,"27,418","7,212,094"
+Do not know,Employment Status: detailed [note 6],Economically Inactive - Retired,0.1,0,0.1,[low],0,[low],25,"7,022"
+Prefer not to say,Employment Status: detailed [note 6],Economically Inactive - Retired,[low],0,[low],[low],0,[low],16,"3,883"
+Yes,Carer Status [note 7],Provides unpaid care,52.5,51.6,53.3,51.7,50.8,52.5,"7,417","2,906,639"
+No,Carer Status [note 7],Provides unpaid care,47.2,46.4,48,47.7,46.8,48.5,"6,478","2,614,476"
+Do not know,Carer Status [note 7],Provides unpaid care,0.3,0.2,0.4,0.6,0.5,0.8,10,"16,350"
+Prefer not to say,Carer Status [note 7],Provides unpaid care,[low],0,0.1,[low],0,0.1,6,"2,202"
+Yes,Carer Status [note 7],Does not provide unpaid care,36.6,36.3,36.9,37.3,36.9,37.6,"29,905","14,859,399"
+No,Carer Status [note 7],Does not provide unpaid care,63.3,62.9,63.6,62.6,62.2,62.9,"45,492","25,688,825"
+Do not know,Carer Status [note 7],Does not provide unpaid care,0.1,0.1,0.1,0.1,0.1,0.1,54,"42,576"
+Prefer not to say,Carer Status [note 7],Does not provide unpaid care,[low],0,[low],[low],0,[low],26,"11,970"
+Yes,Carer Status: detailed [note 7],Provides unpaid care for 9 hours a week or less,47.6,46.5,48.7,47.6,46.4,48.7,"3,655","1,480,984"
+No,Carer Status: detailed [note 7],Provides unpaid care for 9 hours a week or less,52.1,51,53.3,52.2,51,53.3,"3,955","1,622,934"
+Do not know,Carer Status: detailed [note 7],Provides unpaid care for 9 hours a week or less,0.2,0.1,0.4,0.2,0.1,0.4,5,"7,548"
+Prefer not to say,Carer Status: detailed [note 7],Provides unpaid care for 9 hours a week or less,[low],0,0.1,[low],0,0.1,3,"1,150"
+Yes,Carer Status: detailed [note 7],Provides unpaid care for 10 to 19 hours a week,54.6,52.4,56.8,54.1,51.8,56.3,"1,100","428,663"
+No,Carer Status: detailed [note 7],Provides unpaid care for 10 to 19 hours a week,44.6,42.4,46.8,42.6,40.4,44.8,860,"350,143"
+Do not know,Carer Status: detailed [note 7],Provides unpaid care for 10 to 19 hours a week,[c],[c],[c],[c],[c],[c],[c],[c]
+Prefer not to say,Carer Status: detailed [note 7],Provides unpaid care for 10 to 19 hours a week,[c],[c],[c],[c],[c],[c],[c],[c]
+Yes,Carer Status: detailed [note 7],Provides unpaid care for 20 to 34 hours a week,56.9,54.1,59.7,54,51.2,56.9,696,"287,961"
+No,Carer Status: detailed [note 7],Provides unpaid care for 20 to 34 hours a week,43.1,40.2,45.9,45.9,43.1,48.8,485,"217,960"
+Do not know,Carer Status: detailed [note 7],Provides unpaid care for 20 to 34 hours a week,[w],[w],[w],[w],[w],[w],[w],[w]
+Prefer not to say,Carer Status: detailed [note 7],Provides unpaid care for 20 to 34 hours a week,[c],[c],[c],[c],[c],[c],[c],[c]
+Yes,Carer Status: detailed [note 7],Provides unpaid care for 35 to 49 hours a week,58.5,55.3,61.7,57.9,54.7,61.1,552,"234,302"
+No,Carer Status: detailed [note 7],Provides unpaid care for 35 to 49 hours a week,41,37.8,44.2,41.4,38.2,44.6,356,"164,047"
+Do not know,Carer Status: detailed [note 7],Provides unpaid care for 35 to 49 hours a week,[c],[c],[c],[c],[c],[c],[c],[c]
+Prefer not to say,Carer Status: detailed [note 7],Provides unpaid care for 35 to 49 hours a week,[w],[w],[w],[w],[w],[w],[w],[w]
+Yes,Carer Status: detailed [note 7],Provides unpaid care for 50 or more hours a week,64.6,62.6,66.6,64.3,62.3,66.3,"1,414","474,728"
+No,Carer Status: detailed [note 7],Provides unpaid care for 50 or more hours a week,35.3,33.3,37.3,35.6,33.6,37.6,822,"259,393"
+Do not know,Carer Status: detailed [note 7],Provides unpaid care for 50 or more hours a week,[c],[c],[c],[c],[c],[c],[c],[c]
+Prefer not to say,Carer Status: detailed [note 7],Provides unpaid care for 50 or more hours a week,[w],[w],[w],[w],[w],[w],[w],[w]
+Yes,Carer Status: detailed [note 7],Does not provide unpaid care,36.6,36.3,36.9,37.3,36.9,37.6,"29,905","14,859,399"
+No,Carer Status: detailed [note 7],Does not provide unpaid care,63.3,62.9,63.6,62.6,62.2,62.9,"45,492","25,688,825"
+Do not know,Carer Status: detailed [note 7],Does not provide unpaid care,0.1,0.1,0.1,0.1,0.1,0.1,54,"42,576"
+Prefer not to say,Carer Status: detailed [note 7],Does not provide unpaid care,[low],0,[low],[low],0,[low],26,"11,970"
